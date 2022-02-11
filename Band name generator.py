@@ -12,5 +12,4 @@ Pet = input("What is your pet name? \n")
 
 print('Your band name will be : ' + City + " " + Pet)
 
-
 # output : Will be the combination of City and Pet respectively
